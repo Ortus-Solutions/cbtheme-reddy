@@ -1,22 +1,26 @@
 {
-    "name":"Reddy ContentBox Theme",
-    "version":"1.0.0",
-    "author":"Ortus Solutions, Corp",
-    "homepage":"https://github.com/Ortus-Solutions/cbtheme-reddy",
-    "documentation":"https://github.com/Ortus-Solutions/cbtheme-reddy",
+    "name":"ContentBox Theme - Reddy",
+    "version":"2.0.0",
+    "slug":"cbtheme-reddy",
+    "location" : "https://github.com/contentbox-themes/cbtheme-reddy/archive/master.zip",
+    "author":"Ortus Solutions",
+    "homepage":"http://www.ortussolutions.com/products/contentbox",
+    "documentation":"https://github.com/contentbox-themes/cbtheme-reddy",
     "repository":{
         "type":"git",
-        "url":"https://github.com/Ortus-Solutions/cbtheme-reddy.git"
+        "URL":"https://github.com/contentbox-themes/cbtheme-reddy"
     },
-    "bugs":"https://github.com/Ortus-Solutions/cbtheme-reddy/issues",
-    "slug":"cbTheme-reddy",
-    "shortDescription":"An awesome free layout called Reddy",
-    "type":"contentbox-layouts",
-    "keywords":"contentbox,theme",
+    "bugs":"https://github.com/contentbox-themes/cbtheme-reddy/issues",
+    "shortDescription":"An awesome free layout called Reddy!",
+    "description":"",
+    "instructions":"",
+    "changelog":"",
+    "type":"contentbox-themes",
+    "projectURL":"",
     "license":[
         {
             "type":"Apache2",
-            "url":"https://raw.githubusercontent.com/Ortus-Solutions/cbtheme-reddy/master/LICENSE"
+            "URL":"http://www.apache.org/licenses/LICENSE-2.0"
         }
     ],
     "contributors":[
@@ -33,7 +37,6 @@
     },
     "ignore":[
         "**/.*",
-        "test",
         "tests"
     ]
 }
